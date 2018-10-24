@@ -16,7 +16,7 @@ List the tools and technologies that you are planning to use for this project. A
 > **Ethereum** as the blockchain, because it is the most used one / I have experience with it already / It is a public blockchain 
 
 > **ReactJS + Webpack + Bootstrap** for the frontend, because a production bundle can be easily put into a server with **Apache/Nginx** to serve it
-> uPort for the users to authenticate when entering a event
+> **uPort** for the users to authenticate when entering a event
 
 > **IPFS** to store metadata related to each event, so that it is not so expensive to deploy a ticket sale contract as it would only store the IPFS hash to a PDF document that contains all relevant information about the event
 
