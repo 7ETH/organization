@@ -13,12 +13,16 @@ Give a brief explanation about how a blockchain application could solve the prob
 
 ### Tech stack
 List the tools and technologies that you are planning to use for this project. A reason for each one would be appreciated.
-> Ethereum as the blockchain, because it is the most used one / I have experience with it already / It is a public blockchain 
-> ReactJS + Webpack + Bootstrap for the frontend, because a production bundle can be easily put into a server with Apache/Nginx to serve it
+> **Ethereum** as the blockchain, because it is the most used one / I have experience with it already / It is a public blockchain 
+
+> **ReactJS + Webpack + Bootstrap** for the frontend, because a production bundle can be easily put into a server with **Apache/Nginx** to serve it
 > uPort for the users to authenticate when entering a event
-> IPFS to store metadata related to each event, so that it is not so expensive to deploy a ticket sale contract as it would only store the IPFS hash to a PDF document that contains all relevant information about the event
-> AWS to spin up a server in which the frontend can be deployed, if I decide to deploy it and expose it to the world
-> Django backend to store cache (most used contract addresses of ticket sales), analytics, send emails...
+
+> **IPFS** to store metadata related to each event, so that it is not so expensive to deploy a ticket sale contract as it would only store the IPFS hash to a PDF document that contains all relevant information about the event
+
+> **AWS** to spin up a server in which the frontend can be deployed, if I decide to deploy it and expose it to the world
+
+> **Django** backend to store cache (most used contract addresses of ticket sales), analytics, send emails...
 
 ### Time/Difficulty estimate
 Try to think how serious you want this project to be, take into account the installation of new tools that you might want to use, divide the project into smaller tasks and try to estimate each one of them. Or you can just estimate if it would take days, weeks or months.
