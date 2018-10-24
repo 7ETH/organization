@@ -19,7 +19,7 @@ if self.job not in ["blockchain", "ethereum", "dapp development"]:
 
 ### Vision
 What is the future of 7ETH? Interesting question... Should we turn this into a startup? Like a blockchain consulting firm?
-As of new, we are just having fun :)
+As of now, we are just having fun :)
 
 ### Communication
 As of now, we have a [Slack workspace](https://join.slack.com/t/7eth/shared_invite/enQtNDU4MDE1NTExMDcyLTg4OTIxOGM5MzQ0ODY5YWFiNmQ2NTRkNzgyNDU3NjBkZDVjNDI3OTg0NTM4Y2FhZDg2ZDk3ZGI0NDBiNzE3OGQ) that anybody can join!
