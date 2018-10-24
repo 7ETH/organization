@@ -26,4 +26,4 @@ As of now, we have a [Slack workspace](https://join.slack.com/t/7eth/shared_invi
 We also communicate through GitHub issues. To join our organization, just shoot as a message on Slack.
 
 ### New project proposals
-We decided to organize how we introduce new projects into the company. Anybody is free to work in whatever they want, but it is recommended to follow [these guidelines]() in order to bring developers to work with you on your idea or just to clearly tell the world what your project is about.
+We decided to organize how we introduce new projects into the company. Anybody is free to work in whatever they want, but it is recommended to follow [these guidelines](proposal_guidelines.md) in order to bring developers to work with you on your idea or just to clearly tell the world what your project is about.
