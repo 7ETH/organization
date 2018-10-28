@@ -7,20 +7,20 @@ Redundancy, inefficiency, non-compliance, and other related issues.   Developing
 
 ## What is the solution
 
-A core framework that supports the initiatives and ideas the 7ETH pursues.   Common functionality and technical implementations required across projects can be consilidated here to support reuse, collaboration, standardization, etc.  This framework would be implemented in parallel and in support of the other projects being worked on.
+A core framework that supports the initiatives and ideas that 7ETH pursues.   Common functionality and technical implementations required across projects can be consilidated here to support reuse, collaboration, standardization, etc.  This framework would be implemented in parallel and in support of the other projects being worked on.
 
 
 ## Tech stack
 
-Any technology required to support the intiatives of 7Eth.
+Any technology required to support the intiatives of 7ETH.
 
 Examples include, but not limited to:
 - Ethereum 
 - dApp
 - Solidity
 - Truffle
-- ReactJJ
-- NodeJS
+- React
+- Node
 - Angular
 - IPFS
 - MetaMask
