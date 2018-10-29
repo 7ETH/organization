@@ -31,6 +31,7 @@ Technology required to support this intiative includes, but not limited to:
 - Design - 2 weeks
 - Implementation - 12 weeks
 - Testing - 4 weeks
+
 //person weeks - wag
 
 
